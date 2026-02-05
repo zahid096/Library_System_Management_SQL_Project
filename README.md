@@ -18,7 +18,7 @@ This project demonstrates the implementation of a Library Management System usin
 
 ## Project Structure
 
-### 1. Database Setup
+### 1. Database Structure
 ![ERD](Database_Structure.png)
 
 - **Database Creation**: Created a database named `library_management_sestem`.
@@ -353,7 +353,7 @@ ORDER BY count(i.issued_id) DESC
 LIMIT 3;
 ```
 
-**Task 19: Stored Procedure**
+**Task 18: Stored Procedure**
 Objective:
 Create a stored procedure to manage the status of books in a library system.
 Description:
